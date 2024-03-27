@@ -18,7 +18,7 @@ int main()
     else{
         printf("you cant not vote");
         }
-    
+    printf("\n\n");
     
  return 0;
   
